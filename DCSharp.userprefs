@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{061AFAEB-02DD-4F9E-8156-6A10096CDB76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DCSharp Status">
+    <Files>
+      <File FileName="DCSharp Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DCSharpCore PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
