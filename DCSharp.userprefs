@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{061AFAEB-02DD-4F9E-8156-6A10096CDB76}|Default">
+﻿<Properties StartupConfiguration="{061AFAEB-02DD-4F9E-8156-6A10096CDB76}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workbench ActiveDocument="DCSharp Status">
     <Files>
       <File FileName="DCSharp Status" />
+      <File FileName="Log" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
