@@ -1,7 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCSharpCore", "DCSharpCore\DCSharpCore.csproj", "{061AFAEB-02DD-4F9E-8156-6A10096CDB76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "DCSharpCore\Core.csproj", "{061AFAEB-02DD-4F9E-8156-6A10096CDB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{DDF75807-FDD8-492E-AD6F-4AFC3F3FBF3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +15,9 @@ Global
 		{061AFAEB-02DD-4F9E-8156-6A10096CDB76}.Debug|x86.Build.0 = Debug|x86
 		{061AFAEB-02DD-4F9E-8156-6A10096CDB76}.Release|x86.ActiveCfg = Release|x86
 		{061AFAEB-02DD-4F9E-8156-6A10096CDB76}.Release|x86.Build.0 = Release|x86
+		{DDF75807-FDD8-492E-AD6F-4AFC3F3FBF3D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DDF75807-FDD8-492E-AD6F-4AFC3F3FBF3D}.Debug|x86.Build.0 = Debug|Any CPU
+		{DDF75807-FDD8-492E-AD6F-4AFC3F3FBF3D}.Release|x86.ActiveCfg = Release|Any CPU
+		{DDF75807-FDD8-492E-AD6F-4AFC3F3FBF3D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

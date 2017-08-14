@@ -1,8 +1,23 @@
-﻿<Properties GitUserInfo="UsingGIT">
+﻿<Properties StartupConfiguration="{DDF75807-FDD8-492E-AD6F-4AFC3F3FBF3D}|Unit Tests" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workbench ActiveDocument="DCSharp Status">
     <Files>
+      <File FileName="Test/EngineTest.cs" Line="17" Column="28" />
+      <File FileName="DCSharpCore/Engine.cs" Line="15" Column="23" />
+      <File FileName="Test/DataElementTest.cs" Line="13" Column="29" />
+      <File FileName="DCSharpCore/DataElement.cs" Line="10" Column="6" />
       <File FileName="DCSharp Status" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DCSharp" expanded="True">
+            <Node name="Test" expanded="True">
+              <Node name="Test" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -10,4 +25,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
